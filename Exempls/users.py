@@ -1,6 +1,6 @@
 import requests
 
-base_url = "http://marketwain.pw"
+base_url = "http://marketwain.com"
 apikey = "apikey"
 
 
