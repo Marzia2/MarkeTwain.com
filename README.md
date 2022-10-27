@@ -1,4 +1,4 @@
-# For-Teams.pw
+# MarkeTwain.com
 Using the API, you can upload a product, as well as view information about the catalog and products. Inside this directory, you can get examples of using all API methods, in Python.
 
 ## Authorization
